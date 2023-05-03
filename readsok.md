@@ -2,4 +2,4 @@ readme soker
 
 
 
-SOKER RA
+SOMKER 
